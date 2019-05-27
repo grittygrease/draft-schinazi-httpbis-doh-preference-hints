@@ -4,7 +4,7 @@ abbrev: DoH Preference Hints
 docname: draft-sullivan-httpbis-doh-preference-hints-latest
 category: exp
 
-ipr:
+ipr: trust200902
 area: Applications
 keyword: Internet-Draft
 
@@ -41,6 +41,8 @@ to inform user agents of the preferred DNS-over-HTTP servers to use for
 subsequent DNS lookups for the host's domain.
 
 --- middle
+
+# Introduction
 
 --- back
 
