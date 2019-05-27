@@ -1,7 +1,7 @@
 ---
 title: DoH Preference Hints for HTTP 
 abbrev: DoH Preference Hints
-docname: draft-sullivan-httpbis-doh-preference-hints-latest
+docname: draft-schinazi-httpbis-doh-preference-hints
 category: exp
 
 ipr: trust200902
@@ -13,6 +13,11 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
+       ins: D. Schinazi
+       name: David Schinazi
+       organization: Google LLC
+       email: dschinazi.ietf@gmail.com
+ -
        ins: N. Sullivan
        name: Nick Sullivan
        organization: Cloudflare
@@ -22,11 +27,6 @@ author:
        name: Jesse Kipp
        organization: Cloudflare
        email: jkipp@cloudflare.com
- -
-       ins: D. Schinazi
-       name: David Schinazi
-       organization: Google LLC
-       email: dschinazi.ietf@gmail.com
 
 normative:
 
